@@ -1,1 +1,1 @@
-execution permission for everybody
+A script for multiple permissions
