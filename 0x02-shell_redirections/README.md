@@ -1,1 +1,1 @@
-a shell script that creates a file with text
+a shell script that creates a file containing text
