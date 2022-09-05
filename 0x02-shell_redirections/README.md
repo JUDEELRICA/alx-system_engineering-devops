@@ -1,1 +1,1 @@
-Wrote a script that reverses its input
+Wrote a script that displays all users and their home directories and sorted by users
