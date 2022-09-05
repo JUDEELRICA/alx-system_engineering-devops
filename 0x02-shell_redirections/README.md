@@ -1,1 +1,1 @@
-a script that displays all lines beginning with letters
+wrote a script that replaces all characters A and c from input to Z and e respectively
