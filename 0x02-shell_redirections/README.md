@@ -1,1 +1,1 @@
-Display lines containing the pattern root and 3 lines after them in a file
+a script that displays all the lines in a file except for patterns containig bin 
