@@ -1,1 +1,1 @@
-Wrote a script that duplicates the last line of the file iacta
+a script that displays the number of lines that contain the pattern bin in a file
