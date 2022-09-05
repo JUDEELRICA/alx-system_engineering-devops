@@ -1,1 +1,1 @@
-Wrote a shell script that creates a file with text
+Wrote a script that duplicates the last line of the file iacta
