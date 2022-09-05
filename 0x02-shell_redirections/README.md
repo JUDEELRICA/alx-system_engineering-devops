@@ -1,1 +1,1 @@
-a script that displays all the lines in a file except for patterns containig bin 
+a script that displays all lines beginning with letters
