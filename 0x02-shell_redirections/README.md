@@ -1,1 +1,1 @@
-Wrote a script that duplicates the last line of the file iacta
+a script that deletes all the regular files with a .js extension
