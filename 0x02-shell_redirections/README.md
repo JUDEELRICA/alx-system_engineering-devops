@@ -1,1 +1,1 @@
-a script that displays the number of lines that contain the pattern bin in a file
+Wrote a shell script that creates a file with text
