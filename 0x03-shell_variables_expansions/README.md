@@ -1,1 +1,1 @@
-Created a script that prints hello user, where user is the current Linux user
+Created a script that creates an alias
